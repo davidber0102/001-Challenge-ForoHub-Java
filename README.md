@@ -1,10 +1,12 @@
-<h1 align= "center" color = "red"> 003-Challege Foro HUB ALURA-ONE </h1>
+<h1 align="center">Java y Spring Boot</h1>
+<h2 align="center"> Challenge BackEnd Java 01: Challenge Foro Hub </h2>
+<h4 align="center"> Desarrollador: David Bernal Diaz</h4>
+<p align="center">  Instructor: Alura Latam</p>
 
-## Elaborado por: David Bernal Diaz
-### Curso Practicando Spring Boot: Challenge Foro Hub
-### Instructor 
-##
-
+<p align="center"> Link del <a href="https://www.pildorasinformaticas.es/course/javascript-desde-0/"> Curso</a> </p>  
+<br>
+<p align="center"><img src="https://github.com/davidber0102/AL-SQL-MySQL-Server-Oracle/blob/master/alura.jpg"/></p> 
+<p align="center"><img src="https://github.com/davidber0102/AL-SQL-MySQL-Server-Oracle/blob/master/oracle.png"/></p> 
 Descripcion: 
 Challege Foro HUB es una API-REST que se crea bajo el esquema de un espacion donde usuarios registrados previamente, puede participar dentro de una plataforma, donde se pueden planteaer preguntas, dudas, aclaracion sobre cualqier tema.
 
